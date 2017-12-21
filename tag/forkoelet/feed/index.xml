@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>forkølet &#8211; Bockbistro</title>
+	<atom:link href="/tag/forkoelet/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>JUST LIKE NOBODY ELSE</description>
+	<lastBuildDate>Thu, 21 Dec 2017 12:54:53 +0000</lastBuildDate>
+	<language>da-DK</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>God morgen – Nu med Instagram</title>
+		<link>/2017/11/god-morgen-nu-med-instagram/</link>
+		<pubDate>Sun, 05 Nov 2017 07:39:21 +0000</pubDate>
+		<dc:creator><![CDATA[Lisa]]></dc:creator>
+				<category><![CDATA[Hverdag]]></category>
+		<category><![CDATA[forkølet]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[Iphone]]></category>
+
+		<guid isPermaLink="false">/?p=1178</guid>
+		<description><![CDATA[God morgen alle skønne mennesker. Jeg er lige vågnet nu 😮 Det skyldes nok at jeg er gået hen og blevet lidt små forkølet, i det at jeg har sovet med åbne vinduer de sidste par nætter. Det er lidt fortideligt kan jeg mærke 🙁 Kan se at jeg glemte at få lagt denne uges [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>

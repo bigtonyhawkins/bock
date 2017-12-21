@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tankestof &#8211; Bockbistro</title>
+	<atom:link href="/category/tankestof/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>JUST LIKE NOBODY ELSE</description>
+	<lastBuildDate>Thu, 21 Dec 2017 12:54:53 +0000</lastBuildDate>
+	<language>da-DK</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>Mindfulness</title>
+		<link>/2017/12/mindfulness/</link>
+		<pubDate>Sat, 09 Dec 2017 09:57:31 +0000</pubDate>
+		<dc:creator><![CDATA[Lisa]]></dc:creator>
+				<category><![CDATA[tankestof]]></category>
+
+		<guid isPermaLink="false">/?p=1157</guid>
+		<description><![CDATA[Rart hvordan livet er en reise og hvor vanskelig det er for mange av oss og leve i “nuet.” Det å bare være fullt og helt til stede her og nå istedenfor å henge oss opp i fortiden eller fremtiden. Men bli den beste og mest harmoniske utgaven av oss selv AKKURAT nå 🙂 I [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>

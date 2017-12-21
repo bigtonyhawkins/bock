@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tøsestof &#8211; Bockbistro</title>
+	<atom:link href="/category/toesestof/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>JUST LIKE NOBODY ELSE</description>
+	<lastBuildDate>Thu, 21 Dec 2017 12:54:53 +0000</lastBuildDate>
+	<language>da-DK</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>New stuff to me</title>
+		<link>/2017/12/new-stuff-to-me/</link>
+		<pubDate>Fri, 15 Dec 2017 12:45:06 +0000</pubDate>
+		<dc:creator><![CDATA[Lisa]]></dc:creator>
+				<category><![CDATA[Lykken er...]]></category>
+		<category><![CDATA[Skønhed]]></category>
+		<category><![CDATA[Tøsestof]]></category>
+
+		<guid isPermaLink="false">/?p=1153</guid>
+		<description><![CDATA[Er lige kommet hjem efter at have været nede på gågaden i Tønder. Jeg fandt disse fantastiske ting i Matas. Hansker til 12.50 I LIKE Hvid eye shadow fra Rimmel Rød læbestift fra Kate Moss’ Rimmel kollektion Stay Matte dual action concealer fra Rimmel.]]></description>
+		</item>
+		<item>
+		<title>10 (Hemmelige) Grunde til at kvinder foretrækker chokolade frem for sex</title>
+		<link>/2017/12/10-hemmelige-grunde-til-at-kvinder-foretraekker-chokolade-frem-for-sex/</link>
+		<pubDate>Sun, 10 Dec 2017 08:17:22 +0000</pubDate>
+		<dc:creator><![CDATA[Lisa]]></dc:creator>
+				<category><![CDATA[Hverdag]]></category>
+		<category><![CDATA[Tøsestof]]></category>
+
+		<guid isPermaLink="false">/?p=1155</guid>
+		<description><![CDATA[1. Chokolade er godt, selv når den er blevet blød. 2. Der er ingen risiko forbundet med at spise chokolade, mens man kører bil. 3. Man kan spise chokolade overalt (selv når ens mor kigger på). 4. Chokolade kan spises på alle tider af måneden. 5. Chokolade kræver ikke, at man simulerer nydelsen – den [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Med og uden make-up…</title>
+		<link>/2017/11/med-og-uden-make-up/</link>
+		<pubDate>Mon, 27 Nov 2017 12:27:03 +0000</pubDate>
+		<dc:creator><![CDATA[Lisa]]></dc:creator>
+				<category><![CDATA[Hverdag]]></category>
+		<category><![CDATA[Make-up]]></category>
+		<category><![CDATA[Tøsestof]]></category>
+
+		<guid isPermaLink="false">/?p=1167</guid>
+		<description><![CDATA[Tænkte på at våge pelsen og så vise jer, hvordan jeg ser ud med og uden make-up… Faktisk er jeg mest tilhænger af en naturlig make-up, uden alt for meget tu-bang… Det første billede er fra forleden aften, lige efter jeg har været i bad og har fået håret “krøllet” op i magic leverag curlers [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>

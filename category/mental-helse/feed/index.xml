@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mental helse &#8211; Bockbistro</title>
+	<atom:link href="/category/mental-helse/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>JUST LIKE NOBODY ELSE</description>
+	<lastBuildDate>Thu, 21 Dec 2017 12:54:53 +0000</lastBuildDate>
+	<language>da-DK</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>Som perler på en snor….</title>
+		<link>/2017/11/som-perler-paa-en-snor/</link>
+		<pubDate>Wed, 22 Nov 2017 15:37:22 +0000</pubDate>
+		<dc:creator><![CDATA[Lisa]]></dc:creator>
+				<category><![CDATA[Mental helse]]></category>
+
+		<guid isPermaLink="false">/?p=1173</guid>
+		<description><![CDATA[Har dere tenkt over hvor små vi egentlig er når man tenker over ufattelig stort hele universet er? Er det slik at vi faktisk bare er her i denne kroppen for en gitt tid for deretter å fortsette et annet liv i en annen skikkelse, i en annen kropp…? Ganske spennende når en tenker over [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Påsken er over og hverdagen er her:)</title>
+		<link>/2017/10/paasken-er-over-og-hverdagen-er-her/</link>
+		<pubDate>Sat, 28 Oct 2017 17:01:20 +0000</pubDate>
+		<dc:creator><![CDATA[Lisa]]></dc:creator>
+				<category><![CDATA[Hverdag]]></category>
+		<category><![CDATA[Mental helse]]></category>
+
+		<guid isPermaLink="false">/?p=1181</guid>
+		<description><![CDATA[Godt med påske men også godt å komme i rutiner igjen!!! Mindre aktivitet og dårlige matvaner i noen dager gjør at jeg både føler meg slapp og sliten. MEN for all del, tror nok kroppen har “godt” av det innimellom 😉 For å si det sånn så trodde jeg aldri jeg skulle gjennomføre 30 min [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
